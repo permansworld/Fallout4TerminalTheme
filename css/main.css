@@ -6,8 +6,8 @@
 :root, .theme-light {
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--text-color);
-  --background: #000900;
-  --text-color: #4AEF98;
+  --background: #0D0D0D;
+  --text-color: #FFFFFF;
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
